@@ -1,6 +1,5 @@
 artifacts_root: artifacts
 
-
 data_ingestion:
   root_dir: artifacts/data_ingestion
   source_url: https://drive.google.com/file/d/1jG-OkAeoAWNFvJuTDr15o6bS6fDRFNPb/view?usp=drive_link
