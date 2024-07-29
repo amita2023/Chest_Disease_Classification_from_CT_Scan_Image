@@ -1,7 +1,7 @@
 
 ## Project Overview: 
 
-Building and Deploying an End-to-End Deep Learning Solution for Lung Tumor Detection on AWS EC2 Using Docker and Jenkins
+.Building and Deploying an End-to-End Deep Learning Solution for Lung Tumor Detection on AWS EC2 Using Docker and Jenkins
 
 In this project, our goal was to revolutionize healthcare by accurately classifying chest diseases from CT scan images, thereby enhancing early diagnosis and treatment. We utilized a Transfer Learning approach by downloading a pre-trained Vgg16 model (a CNN architecture) from Keras and fine-tuning it to suit our custom dataset.
 
